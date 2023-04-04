@@ -15,30 +15,30 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.ANTI_BADWORD = 'true' // true of false
-global.AUTO_REACT = 'false' // true of false
-global.INBOX_BLOCK_MSG ='BLOCK !!!'
-global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
-global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
-global.socialm = "GitHub: Dark" //ur github or insta name
+global.AUTO_REACT = 'true' // true of false
+global.INBOX_BLOCK_MSG ='*You Were Blocked!!!*                                                                            _🌿🔐Please Join_ ; https://chat.whatsapp.com/HaHDoFYmeZC5qTzFkugnBD'
+global.INBOX_BLOCK = 'on' //inbox block
+global.alivemsg = '```Hi Dear I am Alive Now...☃️♥️```                                                                                                                                                                                                    *|👅🍃|| ❤‍🩹🍭̶⃝⃚🤍: ම̶ම̶ ව̶ල̶් නෑ̶ ම̶ගෙ̶ සි̶තු̶වි̶ලි̶ ටි̶ක̶ක̶් සෙ̶ස̶්සී̶ :🤍̶⃝⃚🥵|🍃:____°°|•🖇️|°🧬|°🌸.....||💊]*                                                                                                                                                                                               _*Type ( .menu ) To get new command list...😇🔰➡️*_                                                                                                                                                            *🌿🔐 Contact Me* : wa.me/+94725058757?text=                                                     *🌿🔐 My Bot Group* : https://chat.whatsapp.com/HaHDoFYmeZC5qTzFkugnBD                                                                                                                                                                             _Powered By ˣˣShana Girl 🙃💞_'
+global.alivepic = 'https://i.ibb.co/P6sYKqS/IMG-20230325-WA0022.jpg'
+global.owner = ['0725058757'] //ur owner number
+global.ownername = "Yeshan Basnayake" //ur owner name
+global.ytname = "YT: @Yeshan_Bro🐼⸙" //ur yt chanel name
+global.socialm = "GitHub: @Yeshan_Bro🐼⸙" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.session = " " //session Id
-global.ownernomer = "94786802371" //ur number
+global.ownernomer = "94725058757" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
+global.premium = ['94725058757'] //ur premium number
+global.botname = 'ˣˣShana Girl 🙃💞' //ur bot name
+global.linkz = "https://chat.whatsapp.com/HaHDoFYmeZC5qTzFkugnBD" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.themeemoji = "🔐" //ur theme emoji
+global.packname = "ˣˣShana Girl 🙃💞 By Yeshan MD ☃️♥️" //ur sticker watermark packname
+global.author = "ˣˣShana Girl 🙃💞 Creating By Yeshan Basnayake" //ur sticker watermark author
+global.wm = "ˣˣShana Girl 🙃💞." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -48,14 +48,14 @@ global.sp = ''
 //messages
 global.mess = {
     success: 'Here you go!',
-    admin: 'This feature could be used by admins only!',
+    admin: 'Use කරන්න පුලුවන් ඇඩ්මින් කෙනෙක්ට විතරයි...😹🔐',
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
     owner: 'This feature could be used by owner only',
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'ᴘʟᴇᴀꜱᴇ ᴡɪᴛʜ...',
+    wait: '*☃️ ඔබ සෙවූ ගීතය Downloading...*',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
